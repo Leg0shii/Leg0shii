@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Leg0shii
 
 ### Software Developer | AI Enthusiast | Minecraft Modder
-🔭 I'm currently pursuing a master's in AI with a focus on self-driving technology.  
+🔭 I'm currently pursuing a master's in AI with a focus on LLMs and self-driving technology.  
 🌱 Passionate about problem-solving, developing Minecraft plugins, and a strong love for dogs. 🐶  
 💬 Ask me about AI, machine learning, or your next Minecraft plugin!
 
