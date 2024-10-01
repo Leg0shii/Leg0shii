@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Leg0shii
 
-<!--
-**Leg0shii/Leg0shii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Enthusiast | Minecraft Modder
+🔭 I'm currently pursuing a master's in AI with a focus on self-driving technology.  
+🌱 Passionate about problem-solving, developing Minecraft plugins, and a strong love for dogs. 🐶  
+💬 Ask me about AI, machine learning, or your next Minecraft plugin!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Trophies & 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&row=2&column=3" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leg0shii&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 Highlighted Projects
+
+### [smart-documents](https://github.com/Leg0shii/smart-documents)
+A web application for document analysis using AI techniques like semantic search and text summarization.
+
+### [coffeeOS](https://github.com/Leg0shii/coffeeOS)
+A custom operating system forked from an existing C++ project.
+
+### [SMOTE-Comparison](https://github.com/Leg0shii/SMOTE-Comparison)
+Exploring SMOTE techniques to address imbalanced machine learning datasets.
+
+### [Learning-Platform-Appday-2021](https://github.com/Leg0shii/Learning-Platform-Appday-2021)
+An educational platform developed during a hackathon competition.
+
+### [ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)
+A Minecraft tool that analyzes parkour mechanics, focusing on versions 1.8.9 and 1.12.
+
+---
+
+## 🔧 Additional Projects
+
+- **[BLE Localisation SB](https://github.com/Leg0shii/BLE-Localisation-SB):** Enhancing indoor positioning systems using BLE technology.
+- **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
+- **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator):** A network testing tool focused on stability, redundancy, and node failures.
+- **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller):** Optimizing and modeling user tasks based on real-world behavior.
+- - **AND MORE**: See Repository
+
+---
+
+## 🎮 Minecraft Plugins
+
+- **[LCCore](https://github.com/Leg0shii/LCCore):** Enhances server management and user experiences within Minecraft.
+- **[TD2Core](https://github.com/Leg0shii/TD2Core):** Enhances parkour experience with map selection, progress tracking, and Discord integration.
+- **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin):** Captures replays of players to enhance gameplay analysis and server moderation.
+- **[PetPlugin](https://github.com/Leg0shii/PetPlugin):** Allows players to have pets, adding a fun and interactive element to the Minecraft experience.
+- **AND MORE**: See Repository
