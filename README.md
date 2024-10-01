@@ -7,12 +7,10 @@
 
 ---
 
-## 🏆 Trophies & 🛠️ Tech Stack
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&row=2&column=3" alt="Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leg0shii&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&rank=-B,-C,-?" alt="Trophies" />
 </div>
+
 
 ---
 
