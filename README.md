@@ -24,7 +24,7 @@
 
 ## 🔧 Additional Projects
 
-- **[BLE Localisation SB](https://github.com/Leg0shii/BLE-Localisation-SB):** Enhancing indoor positioning systems using BLE technology.
+- **[BLE Localisation SB](https://github.com/Leg0shii/X180413-BLE_Localisation-SB):** Enhancing indoor positioning systems using BLE technology.
 - **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
 - **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator):** A network testing tool focused on stability, redundancy, and node failures.
 - **[coffeeOS](https://github.com/Leg0shii/coffeeOS)**: A custom operating system forked from an existing C++ project.
