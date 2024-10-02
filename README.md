@@ -14,6 +14,7 @@
 ---
 
 ## 🚀 Highlighted Projects
+
 - **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: A Minecraft tool that analyzes parkour mechanics and pathfinding, focusing on versions 1.8.9, 1.12, 1.20.
 - **[UML Editor](https://github.com/Leg0shii/SWT-UML)**: E-Learning-System with collaborating UML Editor in a class based environment
 - **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller)**: Optimizing and modeling user tasks based on real-world behavior.
@@ -29,7 +30,8 @@
 - **[CoffeeOS](https://github.com/Leg0shii/coffeeOS)**: A custom operating system forked from an existing C++ project.
 - **[Smart-Documents](https://github.com/Leg0shii/smart-documents)**: A web application for document analysis using AI techniques like semantic search and text summarization.
 - **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
-- **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator):** A network testing tool focused on stability, redundancy, and node failures.
+- **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator)** A network testing tool focused on stability, redundancy, and node failures.
+- **[RayTraceJS](https://github.com/Leg0shii/RayTraceJS)**: JavaScript-based project that implements ray tracing using WebGL to render 3D objects. 
 - **[AND MORE](https://github.com/Leg0shii?tab=repositories)**: see Repository
 
 ---
@@ -51,3 +53,11 @@
 - **[SpeedrunPlugin](https://github.com/Leg0shii/SpeedrunPlugin)**: README WIP
 - **[DeathSwap](https://github.com/Leg0shii/DeathSwap)**: README WIP
 - **[PracticePlugin](https://github.com/Leg0shii/PracticePlugin)**: README WIP
+
+---
+
+## 📚 Problem Solving & Coursework 
+
+- **[University Stuff](https://github.com/Leg0shii/University-Homework)**: Solutions, Projects and More from my Bachelor and Master Studies.
+- **[AdventOfCode](https://github.com/Leg0shii/AdventOfCode)**: Solutions for AdventOfCode from 2022 and 2023.
+- **[CodeForce](https://github.com/Leg0shii/CF_Solutions**: Competitions and Solutions for CodeForces.
