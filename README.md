@@ -15,9 +15,10 @@
 
 ## 🚀 Highlighted Projects
 - **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: A Minecraft tool that analyzes parkour mechanics and pathfinding, focusing on versions 1.8.9, 1.12, 1.20.
-- **[smart-documents](https://github.com/Leg0shii/smart-documents)**: A web application for document analysis using AI techniques like semantic search and text summarization.
+- **[UML Editor](https://github.com/Leg0shii/SWT-UML)**: E-Learning-System with collaborating UML Editor in a class based environment
+- **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller)**: Optimizing and modeling user tasks based on real-world behavior.
+- **[Wumpus Environment](https://github.com/Leg0shii/WumpusEnv)**: Implement and test multi-agent strategies within this dynamic, partially observable environments.
 - **[Learning-Platform-Appday-2021](https://github.com/Leg0shii/Learning-Platform-Appday-2021)**: An educational platform developed during a hackathon competition.
-- **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller):** Optimizing and modeling user tasks based on real-world behavior.
 - **[SMOTE-Comparison](https://github.com/Leg0shii/SMOTE-Comparison)**: Exploring SMOTE techniques to address imbalanced machine learning datasets.
 
 ---
@@ -25,17 +26,22 @@
 ## 🔧 Additional Projects
 
 - **[BLE Localisation SB](https://github.com/Leg0shii/X180413-BLE_Localisation-SB):** Enhancing indoor positioning systems using BLE technology.
+- **[CoffeeOS](https://github.com/Leg0shii/coffeeOS)**: A custom operating system forked from an existing C++ project.
+- **[Smart-Documents](https://github.com/Leg0shii/smart-documents)**: A web application for document analysis using AI techniques like semantic search and text summarization.
 - **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
 - **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator):** A network testing tool focused on stability, redundancy, and node failures.
-- **[coffeeOS](https://github.com/Leg0shii/coffeeOS)**: A custom operating system forked from an existing C++ project.
 - **[AND MORE](https://github.com/Leg0shii?tab=repositories)**: see Repository
 
 ---
 
 ## 🎮 Minecraft Plugins
 
-- **[LCCore](https://github.com/Leg0shii/LCCore):** Enhances server management and user experiences within Minecraft.
-- **[TD2Core](https://github.com/Leg0shii/TD2Core):** Enhances parkour experience with map selection, progress tracking, and Discord integration.
-- **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin):** Captures replays of players to enhance gameplay analysis and server moderation.
-- **[PetPlugin](https://github.com/Leg0shii/PetPlugin):** Allows players to have pets, adding a fun and interactive element to the Minecraft experience.
-- **[AND MORE](https://github.com/Leg0shii?tab=repositories)**: see Repository
+- **[LCCore](https://github.com/Leg0shii/LCCore)**: Enhances server management and user experiences within Minecraft.
+- **[TD2Core](https://github.com/Leg0shii/TD2Core)**: Enhances parkour experience with map selection, progress tracking, and Discord integration.
+- **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin)**: Captures replays of players to enhance gameplay analysis and server moderation.
+- **[PetPlugin](https://github.com/Leg0shii/PetPlugin)**: Allows players to have pets, adding a fun and interactive element to the Minecraft experience.
+- **[ChallengeCraft](https://github.com/Leg0shii/ChallengeCraft)**: README WIP
+- **[SpeedrunPlugin](https://github.com/Leg0shii/SpeedrunPlugin)**: README WIP
+- **[DeathSwap](https://github.com/Leg0shii/DeathSwap)**: README WIP
+- **[PracticePlugin](https://github.com/Leg0shii/PracticePlugin)**: README WIP
+- **[Ranked-Parkour](https://github.com/Leg0shii/Ranked-Parkour)**: README WIP
