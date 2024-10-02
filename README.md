@@ -60,4 +60,4 @@
 
 - **[University Stuff](https://github.com/Leg0shii/University-Homework)**: Solutions, Projects and More from my Bachelor and Master Studies.
 - **[AdventOfCode](https://github.com/Leg0shii/AdventOfCode)**: Solutions for AdventOfCode from 2022 and 2023.
-- **[CodeForce](https://github.com/Leg0shii/CF_Solutions**: Competitions and Solutions for CodeForces.
+- **[CodeForce](https://github.com/Leg0shii/CF_Solutions)**: Competitions and Solutions for CodeForces.
