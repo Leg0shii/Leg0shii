@@ -39,9 +39,15 @@
 - **[LCCore](https://github.com/Leg0shii/LCCore)**: Enhances server management and user experiences within Minecraft.
 - **[TD2Core](https://github.com/Leg0shii/TD2Core)**: Enhances parkour experience with map selection, progress tracking, and Discord integration.
 - **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin)**: Captures replays of players to enhance gameplay analysis and server moderation.
+- **[ChatFilter](https://github.com/Leg0shii/ChatFilterPlugin)**: Monitors and filters player chat for spam, excessive capitalization, unwanted links, offensive language.
 - **[PetPlugin](https://github.com/Leg0shii/PetPlugin)**: Allows players to have pets, adding a fun and interactive element to the Minecraft experience.
+- **[AFKPlugin](https://github.com/Leg0shii/AFKPlugin)**: Detects, manages, and tracks players' AFK status, providing notifications, kicking idle players.
+- **[CustomBedwars](https://github.com/Leg0shii/CustomBedwars)**: BedWars game modes with configurable teams, spawn points, beds, spawners, and gameplay settings.
+- **[Tutorial-Replay-Plugin](https://github.com/Leg0shii/Tutorial-Replay-Plugin)**: Replay recording/playback + comprehensive tutorial management.
+- **[Ranked-Parkour](https://github.com/Leg0shii/Ranked-Parkour)**: README WIP
+- **[FPK-Plugin](https://github.com/Leg0shii/FPK-Plugin)**: README WIP
+- **[FlyingPigs](https://github.com/Leg0shii/FlyingPigs)**: README WIP
 - **[ChallengeCraft](https://github.com/Leg0shii/ChallengeCraft)**: README WIP
 - **[SpeedrunPlugin](https://github.com/Leg0shii/SpeedrunPlugin)**: README WIP
 - **[DeathSwap](https://github.com/Leg0shii/DeathSwap)**: README WIP
 - **[PracticePlugin](https://github.com/Leg0shii/PracticePlugin)**: README WIP
-- **[Ranked-Parkour](https://github.com/Leg0shii/Ranked-Parkour)**: README WIP
