@@ -31,7 +31,8 @@
 - **[Smart-Documents](https://github.com/Leg0shii/smart-documents)**: A web application for document analysis using AI techniques like semantic search and text summarization.
 - **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
 - **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator)** A network testing tool focused on stability, redundancy, and node failures.
-- **[RayTraceJS](https://github.com/Leg0shii/RayTraceJS)**: JavaScript-based project that implements ray tracing using WebGL to render 3D objects. 
+- **[RayTraceJS](https://github.com/Leg0shii/RayTraceJS)**: JavaScript-based project that implements ray tracing using WebGL to render 3D objects.
+- **[MandelbrotExplorer](https://github.com/Leg0shii/MandelbrotExplorer)**: Mandelbrot Explorer in Python.
 - **[AND MORE](https://github.com/Leg0shii?tab=repositories)**: see Repository
 
 ---
