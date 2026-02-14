@@ -7,8 +7,7 @@
 🐶 Dog person. Got into programming through Minecraft plugins and never stopped.
 
 ---
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&rank=-B,-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&rank=-B,-C,-%3F)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
