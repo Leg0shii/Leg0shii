@@ -1,64 +1,55 @@
-# 👋 Hi, I'm Leg0shii
+# 👋 Hi, I'm Benjamin
 
-### Software Engineer | AI Masters Student | Minecraft Modder
-🔭 I'm currently pursuing a master's in AI with a focus on LLMs and self-driving technology.  
-🌱 Passionate about problem-solving, developing Minecraft plugins, and a strong love for dogs. 🐶  
-💬 Ask me about AI, machine learning, or your next Minecraft plugin!
+### Software Engineer | M.Sc. Applied AI | RAG & Data Pipelines
+
+🔭 Building document processing and RAG pipelines at [FAST LTA](https://www.fast-lta.de/) with Python, FastAPI, Celery, and Qdrant.  
+🎓 Master's in Applied Artificial Intelligence from IU, with a thesis on safety-critical motion planning.  
+🐶 Dog person. Got into programming through Minecraft plugins and never stopped.
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&rank=-B,-C,-?" alt="Trophies" />
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Leg0shii&no-bg=true&no-frame=true&theme=juicyfresh&rank=-B,-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🚀 Highlighted Projects
 
-- **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: A Minecraft tool that analyzes parkour mechanics and pathfinding, focusing on versions 1.8.9, 1.12, 1.20.
-- **[UML Editor](https://github.com/Leg0shii/SWT-UML)**: E-Learning-System with collaborating UML Editor in a class based environment
-- **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller)**: Optimizing and modeling user tasks based on real-world behavior.
-- **[Wumpus Environment](https://github.com/Leg0shii/WumpusEnv)**: Implement and test multi-agent strategies within this dynamic, partially observable environments.
-- **[Learning-Platform-Appday-2021](https://github.com/Leg0shii/Learning-Platform-Appday-2021)**: An educational platform developed during a hackathon competition.
-- **[SMOTE-Comparison](https://github.com/Leg0shii/SMOTE-Comparison)**: Exploring SMOTE techniques to address imbalanced machine learning datasets.
+* **[Master-Thesis](https://github.com/Leg0shii/Master-Thesis)**: Extended the LQR-CBF-RRT* motion planning framework to dynamic environments with a time-varying CBF safety filter. 3,000 roll-outs, zero collisions. Python, NumPy, SciPy, Gurobi. [[code](https://github.com/Leg0shii/LQR_CBF_rrtStar/tree/dyn-tvcbf)]
+* **[Smart Documents](https://github.com/Leg0shii/smart-documents)**: Full-stack document management app with semantic search, chat, and summarization. Python/FastAPI, Svelte, PostgreSQL, LangChain, Docker Compose.
+* **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller)**: Bachelor thesis (graded 1.0). Tool support for As-Is and To-Be task modeling using ConcurTaskTrees. Transforms observed user behaviors into unified, constraint-driven models. Java, JavaFX.
+* **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: Physics simulation engine for Minecraft parkour with a custom 3D world editor and AI-powered pathfinding. Generates optimal movement paths comparable to world-record speedruns. Java. ⭐ 24
+* **[SMOTE-Comparison](https://github.com/Leg0shii/SMOTE-Comparison)**: Comparison of SMOTE variants for imbalanced classification, tied to a published paper. Jupyter, scikit-learn.
+* **[WumpusEnv](https://github.com/Leg0shii/WumpusEnv)**: Multi-agent Wumpus World simulation with partially observable environments and multi-language bot integration. Java.
 
 ---
 
-## 🔧 Additional Projects
+## 🔧 Tech
 
-- **[BLE Localisation SB](https://github.com/Leg0shii/X180413-BLE_Localisation-SB):** Enhancing indoor positioning systems using BLE technology.
-- **[CoffeeOS](https://github.com/Leg0shii/coffeeOS)**: A custom operating system forked from an existing C++ project.
-- **[Smart-Documents](https://github.com/Leg0shii/smart-documents)**: A web application for document analysis using AI techniques like semantic search and text summarization.
-- **[Pentominoes-Pathfinder](https://github.com/Leg0shii/Pentominoes-Pathfinder):** An advanced pathfinding algorithm utilizing pentomino shapes.
-- **[GraphSimulator](https://github.com/Leg0shii/GraphSimulator)** A network testing tool focused on stability, redundancy, and node failures.
-- **[RayTraceJS](https://github.com/Leg0shii/RayTraceJS)**: JavaScript-based project that implements ray tracing using WebGL to render 3D objects.
-- **[MandelbrotExplorer](https://github.com/Leg0shii/MandelbrotExplorer)**: Mandelbrot Explorer in Python.
-- **[AND MORE](https://github.com/Leg0shii?tab=repositories)**: see Repository
+`Python` · `Java` · `FastAPI` · `SQLAlchemy` · `Celery` · `Qdrant` · `PostgreSQL` · `Docker` · `Git`
 
 ---
 
 ## 🎮 Minecraft Plugins
 
-- **[LCCore](https://github.com/Leg0shii/LCCore)**: Enhances server management and user experiences within Minecraft.
-- **[TD2Core](https://github.com/Leg0shii/TD2Core)**: Enhances parkour experience with map selection, progress tracking, and Discord integration.
-- **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin)**: Captures replays of players to enhance gameplay analysis and server moderation.
-- **[ChatFilter](https://github.com/Leg0shii/ChatFilterPlugin)**: Monitors and filters player chat for spam, excessive capitalization, unwanted links, offensive language.
-- **[PetPlugin](https://github.com/Leg0shii/PetPlugin)**: Allows players to have pets, adding a fun and interactive element to the Minecraft experience.
-- **[AFKPlugin](https://github.com/Leg0shii/AFKPlugin)**: Detects, manages, and tracks players' AFK status, providing notifications, kicking idle players.
-- **[CustomBedwars](https://github.com/Leg0shii/CustomBedwars)**: BedWars game modes with configurable teams, spawn points, beds, spawners, and gameplay settings.
-- **[Tutorial-Replay-Plugin](https://github.com/Leg0shii/Tutorial-Replay-Plugin)**: Replay recording/playback + comprehensive tutorial management.
-- **[Ranked-Parkour](https://github.com/Leg0shii/Ranked-Parkour)**: README WIP
-- **[FPK-Plugin](https://github.com/Leg0shii/FPK-Plugin)**: README WIP
-- **[FlyingPigs](https://github.com/Leg0shii/FlyingPigs)**: README WIP
-- **[ChallengeCraft](https://github.com/Leg0shii/ChallengeCraft)**: README WIP
-- **[SpeedrunPlugin](https://github.com/Leg0shii/SpeedrunPlugin)**: README WIP
-- **[DeathSwap](https://github.com/Leg0shii/DeathSwap)**: README WIP
-- **[PracticePlugin](https://github.com/Leg0shii/PracticePlugin)**: README WIP
+How I got into programming. ParkourCalculator above started as one of these.
+
+<details>
+<summary>Click to expand</summary>
+
+* **[LCCore](https://github.com/Leg0shii/LCCore)**: Server management and user experience enhancements.
+* **[TD2Core](https://github.com/Leg0shii/TD2Core)**: Parkour experience with map selection, progress tracking, and Discord integration.
+* **[ReplayPlugin](https://github.com/Leg0shii/ReplayPlugin)**: Player replay capture for gameplay analysis and server moderation.
+* **[ChatFilter](https://github.com/Leg0shii/ChatFilterPlugin)**: Chat monitoring and filtering for spam, caps, links, and offensive language.
+* **[CustomBedwars](https://github.com/Leg0shii/CustomBedwars)**: Configurable BedWars game modes with teams, spawners, and gameplay settings.
+* **[Tutorial-Replay-Plugin](https://github.com/Leg0shii/Tutorial-Replay-Plugin)**: Replay recording/playback and tutorial management.
+* **[Ranked-Parkour](https://github.com/Leg0shii/Ranked-Parkour)**: Competitive parkour ranking system.
+* **[ChallengeCraft](https://github.com/Leg0shii/ChallengeCraft)**: Custom challenge game modes.
+
+</details>
 
 ---
 
-## 📚 Problem Solving & Coursework 
+## 📚 Problem Solving
 
-- **[University Stuff](https://github.com/Leg0shii/University-Homework)**: Solutions, Projects and More from my Bachelor and Master Studies.
-- **[AdventOfCode](https://github.com/Leg0shii/AdventOfCode)**: Solutions for AdventOfCode from 2022 and 2023.
-- **[CodeForce](https://github.com/Leg0shii/CF_Solutions)**: Competitions and Solutions for CodeForces.
+* **[AdventOfCode](https://github.com/Leg0shii/AdventOfCode)**: Solutions for Advent of Code 2022 and 2023.
+* **[CodeForces](https://github.com/Leg0shii/CF_Solutions)**: Competition solutions.
