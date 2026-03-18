@@ -16,7 +16,7 @@
 * **[Master-Thesis](https://github.com/Leg0shii/Master-Thesis)**: Extended the LQR-CBF-RRT* motion planning framework to dynamic environments with a time-varying CBF safety filter. 3,000 roll-outs, zero collisions. Python, NumPy, SciPy, Gurobi. [[code](https://github.com/Leg0shii/LQR_CBF_rrtStar/tree/dyn-tvcbf)]
 * **[Smart Documents](https://github.com/Leg0shii/smart-documents)**: Full-stack document management app with semantic search, chat, and summarization. Python/FastAPI, Svelte, PostgreSQL, LangChain, Docker Compose.
 * **[Task-Modeller](https://github.com/Leg0shii/Task-Modeller)**: Bachelor thesis (graded 1.0). Tool support for As-Is and To-Be task modeling using ConcurTaskTrees. Transforms observed user behaviors into unified, constraint-driven models. Java, JavaFX.
-* **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: Physics simulation engine for Minecraft parkour with a custom 3D world editor and AI-powered pathfinding. Generates optimal movement paths comparable to world-record speedruns. Java. ⭐ 24
+* **[ParkourCalculator](https://github.com/Leg0shii/ParkourCalculator)**: Physics simulation engine for Minecraft parkour with a custom 3D world editor and AI-powered pathfinding. Generates optimal movement paths comparable to world-record speedruns. Java. ⭐ 26
 * **[SMOTE-Comparison](https://github.com/Leg0shii/SMOTE-Comparison)**: Comparison of SMOTE variants for imbalanced classification, tied to a published paper. Jupyter, scikit-learn.
 * **[WumpusEnv](https://github.com/Leg0shii/WumpusEnv)**: Multi-agent Wumpus World simulation with partially observable environments and multi-language bot integration. Java.
 
