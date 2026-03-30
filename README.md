@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Benjamin
 
-### Software Engineer | M.Sc. Applied AI | RAG & Data Pipelines
+### Senior Software Engineer | M.Sc. Applied AI | RAG & Data Pipelines
 
 🔭 Building document processing and RAG pipelines at [FAST LTA](https://www.fast-lta.de/) with Python, FastAPI, Celery, and Qdrant.  
 🎓 Master's in Applied Artificial Intelligence from IU, with a thesis on safety-critical motion planning.  
